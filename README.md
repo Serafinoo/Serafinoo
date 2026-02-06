@@ -1,5 +1,5 @@
 ## Tecnologias que utilizo
-[![My Skills💻] i = linux(https://skillicons.dev)](https://skillicons.dev)
+[![My Skills💻](https://skillicons.dev/icons?i=linux,py,git,bash,django,neovim,obsidian)](https://skillicons.dev)
 
 <!--
 **Serafinoo/Serafinoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
