@@ -1,5 +1,12 @@
-## Tecnologias que utilizo
-[![My Skills💻](https://skillicons.dev/icons?i=linux,py,git,bash,django,neovim,obsidian)](https://skillicons.dev)
+<h1 align="center">
+  <span style="color:#2ecc71">Serafim</span>
+</h1>
+
+
+### Olá, me chamo João Serafim
+#### Aqui está um pouco sobre mim:
+
+<
 
 <!--
 **Serafinoo/Serafinoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
