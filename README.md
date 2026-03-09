@@ -26,7 +26,7 @@ Já fiz parte de competições de robótica e programação como OBR e OBI🎖�
 Sonho em participar de competições de robótica da FIRST, tais como FLL e FTC💭
 </h4>
 
-<p align="right">Me siga!</p>
+<p align="right">Contato:</p>
 
  <div align="right"> 
    
